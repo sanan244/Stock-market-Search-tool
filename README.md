@@ -1,2 +1,3 @@
 # Stock-market-Search-tool
 This project was designed as an educational example of how to automate website data collection. The code works by searching a single basic query, searching for key words or phrases(in this case, stock symbols), and then searching for more links within each website to search for more keywords or phrases. An important aspect of this is to only read websites where the request is valid and approved to avoid straining public websites with traffic. This project could serve as a unique approach to data collection and dataset creation for machine learning models especially invlolving NLP.
+![Screen Shot 2021-11-30 at 7 29 03 PM](https://user-images.githubusercontent.com/76133001/144166880-764271ef-7d7c-49f0-b897-c412b257a625.png)
